@@ -2,7 +2,7 @@
 
 This is testing of auto pull code. 
 
-auto pull changes test
+I m going to delete file asap. 
 
 
 
